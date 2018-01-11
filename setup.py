@@ -8,6 +8,6 @@ setup(name='pyloopenergy',
       author='Greg Dowling',
       author_email='mail@gregdowling.com',
       license='MIT',
-      install_requires=['socketIO-client==0.7.2'],
+      install_requires=['socketIO-client-nexus==0.7.5'],
       packages=find_packages(),
       zip_safe=True)
