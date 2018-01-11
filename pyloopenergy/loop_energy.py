@@ -12,7 +12,7 @@ import requests
 
 # Uses Socket.io protocol 0.9 - so is not compatible with 1.0
 # So important to use socketIO-client v 0.5.6
-import socketIO_client_nexus as socketIO_client
+import socketIO_client
 
 LOG = logging.getLogger(__name__)
 
